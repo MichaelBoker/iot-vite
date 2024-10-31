@@ -1,0 +1,33 @@
+{
+  "name": "iot_e2e_vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "setup-project": "pnpm i && cd client && pnpm i",
+    "setup-production-app": "pnpm i && cd client && pnpm i && npm run build",
+    "server": "nodemon server",
+    "client": "cd client && pnpm run dev",
+    "dev": "concurrently --kill-others-on-fail \"pnpm run server\" \"pnpm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^8.2.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "express-validator": "^7.0.1",
+    "http-status-codes": "^2.3.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.1",
+    "morgan": "^1.10.0",
+    "mqtt": "^5.3.6",
+    "nodemon": "^3.0.1",
+    "react-toastify": "^9.1.3"
+  }
+}

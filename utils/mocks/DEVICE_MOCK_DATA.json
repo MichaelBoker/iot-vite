@@ -1,0 +1,41 @@
+{
+    "device_name": "Device name",
+    "code": "MOCK_DATA",
+    "type":"Watch",
+    "isConnected":"online", 
+    "owner": {
+      "name": "Louise Dozdill",
+      "phone": "930-667-9349",
+      "address": "39 Fremont Avenue",
+      "email": "ldozdill0@fastcompany.com"
+    },
+    "company": "656cf6f7700a149e22c4d8b1",
+    "sensor":{
+        "messages": [
+          {
+            "_id":"635981f6e40f61599e839dd1",
+            "messageType": "INFO",
+            "content":"INFO Test",
+            "notifyTime": "Fri Jan 26 2024 16:09:43"
+          },
+          {
+            "_id":"635981f6e40f61599e839dd2",
+            "messageType": "ERROR",
+            "content":"ERROR Test",
+            "notifyTime": "Fri Jan 26 2024 16:09:43"
+          },
+          {
+            "_id":"635981f6e40f61599e839dd3",
+            "messageType": "WARNING",
+            "content":"WARNING Test",
+            "notifyTime": "Fri Jan 26 2024 16:09:43"
+          },
+          {
+            "_id":"635981f6e40f61599e839dd4",
+            "messageType": "OK",
+            "content":"OK Test",
+            "notifyTime": "Fri Jan 26 2024 16:09:43"
+          }
+        ]
+      }
+}

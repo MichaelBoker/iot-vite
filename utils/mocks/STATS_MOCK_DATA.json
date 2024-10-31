@@ -1,0 +1,15 @@
+{
+    "deviceStatusCounter": {
+        "true": 25,
+        "false": 10
+    },
+    "deviceTypeStats": {
+        "Device Type1": 20,
+        "Device Type2": 7,
+        "Device Type3": 8,
+        "Device Type4": 15,
+        "Device Type5": 18,
+        "Device Type6": 10
+    },
+    "notifications": 15
+}

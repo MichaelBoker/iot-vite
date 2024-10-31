@@ -1,0 +1,170 @@
+{
+  "devices": [
+    {
+      "_id": "635981f6e40f61599e839dd1",
+      "device_name": "Apple Watch Series 6",
+      "code": "MOCK_DATA",
+      "type": "Watch",
+      "isConnected": "online",
+      "owner": {
+        "name": "Louise Dozdill",
+        "phone": "930-667-9349",
+        "address": "39 Fremont Avenue",
+        "email": "ldozdill0@fastcompany.com"
+      },
+      "company": "656cf6f7700a149e22c4d8b1",
+      "sensor" : {
+        "newMessages" : 1
+      }
+    },
+    {
+      "_id": "635981f6e40f61599e839dd2",
+      "device_name": "AirPods Pro",
+      "code": "MOCK_DATA",
+      "type": "AirPods",
+      "isConnected": "online",
+      "owner": {
+        "name": "Lucinda Tittletross",
+        "phone": "881-539-2249",
+        "address": "38 Schiller Place",
+        "email": "ltittletross1@pbs.org"
+      },
+      "company": "656cf6f7700a149e22c4d8b1",
+      "sensor" : {
+        "newMessages" : 5
+      }
+    },
+    {
+      "_id": "635981f6e40f61599e839dd3",
+      "device_name": "iPad Pro",
+      "code": "MOCK_DATA",
+      "type": "iPad",
+      "isConnected": "online",
+      "owner": {
+        "name": "Quint Alleyn",
+        "phone": "650-151-7298",
+        "address": "07 Hagan Alley",
+        "email": "qalleyn2@guardian.co.uk"
+      },
+      "company": "656cf6f7700a149e22c4d8b1",
+      "sensor" : {
+        "newMessages" : 0
+      }
+    },
+    {
+      "_id": "635981f6e40f61599e839dd4",
+      "device_name": "iPhone X",
+      "code": "MOCK_DATA",
+      "type": "iPhone",
+      "owner": {
+        "name": "Milka Jarrel",
+        "phone": "473-582-5586",
+        "address": "56564 Ridge Oak Street",
+        "email": "mjarrel3@multiply.com"
+      },
+      "company": "656cf6f7700a149e22c4d8b1",
+      "sensor" : {
+        "newMessages" : 3
+      }
+    },
+    {
+      "_id": "635981f6e40f61599e839dd5",
+      "device_name": "iMac Pro",
+      "code": "MOCK_DATA",
+      "type": "Mac",
+      "owner": {
+        "name": "Katleen O'Hannen",
+        "phone": "346-319-5262",
+        "address": "40 Rieder Drive",
+        "email": "kohannen4@reverbnation.com"
+      },
+      "company": "656cf6f7700a149e22c4d8b1",
+      "sensor" : {
+        "newMessages" : 1
+      }
+    },
+    {
+      "_id": "635981f6e40f61599e839dd6",
+      "device_name": "iPad Pro",
+      "code": "MOCK_DATA",
+      "type": "iPad",
+      "owner": {
+        "name": "Gaby Lavrinov",
+        "phone": "512-673-7323",
+        "address": "3 Hayes Street",
+        "email": "glavrinov5@goo.gl"
+      },
+      "company": "656cf6f7700a149e22c4d8b1",
+      "sensor" : {
+        "newMessages" : 1
+      }
+    },
+    {
+      "_id": "635981f6e40f61599e839dd7",
+      "device_name": "Apple TV 4K",
+      "code": "MOCK_DATA",
+      "type": "Apple TV",
+      "owner": {
+        "name": "Isidoro Wiley",
+        "phone": "749-629-5025",
+        "address": "226 Oakridge Parkway",
+        "email": "iwiley6@cargocollective.com"
+      },
+      "company": "656cf6f7700a149e22c4d8b1",
+      "sensor" : {
+        "newMessages" : 0
+      }
+    },
+    {
+      "_id": "635981f6e40f61599e839dd8",
+      "device_name": "MacBook Air",
+      "code": "MOCK_DATA",
+      "type": "Mac",
+      "owner": {
+        "name": "Rica McDougall",
+        "phone": "792-844-0408",
+        "address": "1 Buena Vista Drive",
+        "email": "rmcdougall7@nationalgeographic.com"
+      },
+      "company": "656cf6f7700a149e22c4d8b1",
+      "sensor" : {
+        "newMessages" : 0
+      }
+    },
+    {
+      "_id": "635981f6e40f61599e839dd9",
+      "device_name": "Apple TV 4K",
+      "code": "MOCK_DATA",
+      "type": "Apple TV",
+      "owner": {
+        "name": "Eirena Gianninotti",
+        "phone": "786-488-7887",
+        "address": "29 Arizona Park",
+        "email": "egianninotti8@sourceforge.net"
+      },
+      "company": "656cf6f7700a149e22c4d8b1",
+      "sensor" : {
+        "newMessages" : 0
+      }
+    },
+    {
+      "_id": "635981f6e40f61599e839d10",
+      "device_name": "Mac Mini",
+      "code": "MOCK_DATA",
+      "type": "Mac",
+      "owner": {
+        "name": "Stearn De Cruz",
+        "phone": "543-817-5806",
+        "address": "58 Ronald Regan Parkway",
+        "email": "sde9@rambler.ru"
+      },
+      "company": "656cf6f7700a149e22c4d8b1",
+      "sensor" : {
+        "newMessages" : 0
+      }
+    }
+  ],
+  "page": 1, 
+  "totalPages": 10,
+  "totalDevices": 20
+}
